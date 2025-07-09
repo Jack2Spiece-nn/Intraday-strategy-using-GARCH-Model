@@ -1,0 +1,1 @@
+# Intraday-strategy-using-GARCH-Model
